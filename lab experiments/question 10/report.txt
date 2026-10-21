@@ -1,0 +1,5 @@
+I collaborate to a repository through the collaboration invite i got from my team mate 
+and cloned the branch to my IDE and created a branch in my name then made some changes 
+and push it to my branch . I created pull request from my branch to main and there was no 
+conflict between the two branches so the pull request was success and it was merged to main 
+successfully

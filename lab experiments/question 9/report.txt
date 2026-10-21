@@ -1,0 +1,10 @@
+## 1. Summary of Changes
+
+I added a new text file named `test.txt` to the GitHub repository to document the testing report. I committed and pushed the file to my working branch and created a pull request to propose merging the changes into the main branch.
+This activity helped me understand how to add files, track changes, commit updates, and submit contributions using Git and GitHub.
+
+## 2. How We Collaborated
+
+My teammate sent me a collaboration invitation through GitHub, which allowed me to access the shared repository. 
+After accepting the invitation, I added `test.txt` containing the testing report and committed my changes. I then pushed the changes to GitHub and used a pull request to propose the update for review and merging. 
+This workflow demonstrated collaboration through GitHub, version control, and the process of submitting changes for review before integration into the main branch.
